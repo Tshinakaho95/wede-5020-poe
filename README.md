@@ -1,5 +1,5 @@
 # Project Title
-Your project's title
+Website for Nails by Tshina
 
 ## Student Information
 **Student number:** ST10537683 <br>
@@ -7,11 +7,17 @@ Your project's title
 
 ## Project Overview
 
-Pull this from your project proposal.
+This project is a website developed for a small nail care business called 
+Nails By Tshina. The purpose of the website is to promote nail services, 
+showcase nail designs, and provide clients with easy access to service 
+information and booking enquiries. The website aims to create a professional 
+online presence for the business and attract new clients.
 
 ## Website Goals and Objectives
 
-Pull this from your project proposal.
+- Promote nail services
+- Attract new clients
+- Provide clear service and contact information
 
 ## Timeline and Milestones
 
