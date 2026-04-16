@@ -19,9 +19,12 @@ online presence for the business and attract new clients.
 - Attract new clients
 - Provide clear service and contact information
 
-## Timeline and Milestones
+## Timeline and Milestones.
 
-Pull this from your project proposal.
+- **Week 1:** Project proposal, research, planning, and wireframes  
+- **Week 2:** Website structure design and basic HTML development  
+- **Week 3:** CSS styling and responsive design implementation  
+- **Week 4:** JavaScript functionality, testing, final improvements, and submission
 
 ## Sitemap
 
