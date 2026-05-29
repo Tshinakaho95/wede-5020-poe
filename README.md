@@ -2,7 +2,7 @@
 Website for Nails by Tshina
 
 ## Student Information
-**Student number:** ST10537683 <br>
+**Student number:** ST10537683 
 **Student Name:** Tshinakaho Mathivha
 
 ## Project Overview
