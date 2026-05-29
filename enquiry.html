@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    
+  <link rel="stylesheet" href="css/style.css">  
     <title> Nailed By Naki</title>
 </head>
 
@@ -10,8 +10,8 @@
 <header>
 
   <h1>Nailed By Naki</h1> 
+
   
-  <!--Navigation Menu-->
 <nav>
 <a href="index.html">Home</a>
 <a href="about.html">About Us</a>
@@ -24,23 +24,39 @@
  </header>
 
  <br>
- <h2>Enquiry</h2>
- 
-<h3>Enquiry Form</h3>
-<form><label for="name">Your Name:</label><br>
-<input type="text"id="name" name="name"<br><br>
+ <main>
 
-<label for="email">Your Email:</label><br>
-<input type="email"id="email" name="email"<br><br>
+    <h2>Book an Appointment</h2>
+    <p>Please fill in the form and we'll get back to you.</p>
 
-<label for="contact">Your Contact:</label><br>
-<input type="text"id="contact" name="contact"<br><br>
+    <form>
 
-<label for="message">Your Message:</label><br>
-<textarea id="message" name="message" rows="4" cols="40"></textarea><br><br>
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" name="name">
 
-<button type="submit">Send Enquiry</button>
-<footer>
+        <label for="email">Email Address:</label>
+        <input type="email" id="email" name="email">
+
+        <label for="contact">Phone Number:</label>
+        <input type="tel" id="contact" name="contact">
+
+        <label for="service">Select Service:</label>
+        <select id="service" name="service">
+            <option>Gel Nails</option>
+            <option>Acrylic Nails</option>
+            <option>Manicure</option>
+            <option>Pedicure</option>
+        </select>
+
+        <label for="message">Message:</label>
+        <textarea id="message" name="message"></textarea>
+
+        <button type="submit">Book Now</button>
+
+    </form>
+
+</main>
+ <footer>
   <hr>
   <p>&copy;2026 Nails by Naki.All rghts reserved</p>
   <hr>
