@@ -33,6 +33,10 @@ online presence for the business and attract new clients.
 - Services page
 - Enquiry form
 - Contact page
+- Gallery
+
+## Deployment
+The website is deployed using Netlify: https://sensational-flan-5b22c8.netlify.app
 
 ## Technologies Used
 
@@ -46,6 +50,9 @@ online presence for the business and attract new clients.
 - Implemented responsive design
 
 ## Changelog
+- Added gallery section 
+- updated styling
+- Fixed navigation
 
 ### Part 2
 
