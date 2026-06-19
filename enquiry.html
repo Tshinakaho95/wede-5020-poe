@@ -18,6 +18,7 @@
 <a href="index.html">Home</a>
 <a href="about.html">About Us</a>
 <a href="services.html">Services</a>
+<a href="gallery.html">Our Gallery</a>
 <a href="enquiry.html">Enquiry</a>
 <a href="contact.html">Contact Us</a>
 </nav>
@@ -31,7 +32,7 @@
     <h2>Book an Appointment</h2>
     <p>Please fill in the form and we'll get back to you.</p>
 
-    <form>
+    <form id="enquiryForm">
 
         <label for="name">Full Name:</label>
         <input type="text" id="name" name="name">
@@ -44,18 +45,18 @@
 
         <label for="service">Select Service:</label>
         <select id="service" name="service">
-            <option>Gel Nails</option>
-            <option>Acrylic Nails</option>
-            <option>Manicure</option>
-            <option>Pedicure</option>
+            <option value="Gel Nails">Gel Nails</option>
+            <option value="Acrylic Nails">Acrylic Nails</option>
+            <option value="Manicure">Manicure</option>
+            <option value="Pedicure">Pedicure</option>
         </select>
 
         <label for="message">Message:</label>
         <textarea id="message" name="message"></textarea>
-
+        
         <button type="submit">Book Now</button>
-
     </form>
+    <p id="enquiryResponse"></p>
 
 </main>
  <footer>
@@ -63,5 +64,6 @@
   <p>&copy;2026 Nails by Naki.All rghts reserved</p>
   <hr>
  </footer>
+ <script src="js/script.js"></script>
 </body>
 </html>
